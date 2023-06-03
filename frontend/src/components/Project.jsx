@@ -73,7 +73,7 @@ const Project = () => {
                     href={project.link}
                     rel='noopener noreferrer'
                     target='_blank'
-                    className='text-red-500 font-bold hover:underline hover:text-red-400'
+                    className='text-red-500 font-bold hover:underline hover:text-red-400 text-lg'
                   >
                     View the Project{' '}
                     <span role='image' aria-label='right pointer' className=''>
